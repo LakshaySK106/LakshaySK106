@@ -67,3 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <br>
   
+## Just a snake eating my contributions 🐍
+<p align='center'>
+<img src="https://github.com/LakshaySK106/LakshaySK106/raw/output/github-contribution-grid-snake.svg">
+</p>
