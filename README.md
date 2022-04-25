@@ -34,6 +34,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+  <div align="center">
+  <a href="https://open.spotify.com/user/31355fy7md735z475z4rql7zatqq">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+  
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+   
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://LakshaySK106.dev/">
