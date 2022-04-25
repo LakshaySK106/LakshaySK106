@@ -6,13 +6,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyyy!+I'm+Lakshay+%3C3;Computer+Software+Engineering+Major;Delhi+Technological+University;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Heyyyy!+I'm+Lakshay+%3C3;Computer+Software+Engineering+Major;Delhi+Technological+University;Welcome+to+my+profile+!">
 </p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<font size="4" > 📈 Contribution Statistics</font>
+<h3 > 📈 Contribution Statistics</h3>
 <br/>
 <p align="left">
   <a href="https://LakshaySK106.dev/">
@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<font size="5">💻 Technology Stack</font>
+<h3>💻 Technology Stack</h3>
 <p >
 <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif"
@@ -67,8 +67,8 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <br>
-  
-## Just a snake eating my contributions 🐍
+ 
+<h3>Let the Snake eat my contributions</h3>
 <p align='center'>
 <img src="https://github.com/LakshaySK106/LakshaySK106/raw/output/github-contribution-grid-snake.svg">
 </p>
