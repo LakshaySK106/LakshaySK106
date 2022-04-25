@@ -52,6 +52,7 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="100"  alt="c"/> </a>
    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966"  alt="c"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100" alt="c"/> </a>
+   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="90" alt="c"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150"  alt="c"/> </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100"
