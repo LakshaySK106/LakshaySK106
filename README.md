@@ -71,14 +71,14 @@
    <a href="https://github.com/" target="_blank" rel="noreferrer">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="c"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="c"/> </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="100"  alt="c"/> </a>
-   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966"  alt="c"/> </a>
+   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966"  alt="Node" width="180"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100" alt="Firebase"/> </a>
    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="90" alt="Redux"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150"  alt="Git"/> </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100"
       height="100" />
-   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="100" height="100" />
+   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width='100' />
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
