@@ -1,6 +1,6 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-<h3>Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 33px></h3> 
+<h3>Hello Fellow < Coders/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -64,7 +64,7 @@
 </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    </p>    
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3>Statistical Data</h3>
 <p><img align="left"
@@ -75,7 +75,7 @@
 </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
   
 <h3>Let the Snake eat my contributions</h3>
