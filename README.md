@@ -69,7 +69,7 @@
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3>Statistical Data</h3>
+<!-- <h3>Statistical Data</h3>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true"
     alt="LakshaySK106" />
@@ -79,7 +79,16 @@
 
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
+<br> -->
+
+<h3>Currently listening to 🎶</h3>
+<div align="center">
+  <a href="https://open.spotify.com/user/31355fy7md735z475z4rql7zatqq">
+    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing ">
+  </a>
+</div>
+<p  align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
