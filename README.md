@@ -22,7 +22,7 @@
   </a>
 </p>
 
-[![Lakshay' Activity Graph](https://activity-graph.herokuapp.com/graph?username=LakshaySK106&custom_title=Lakshay%20's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://LakshaySK106.dev)
+[![Lakshay' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LakshaySK106&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
