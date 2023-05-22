@@ -92,7 +92,7 @@
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
-<img src="https://github.com/LakshaySK106/LakshaySK106/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/LakshaySK106/LakshaySK106/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 <p  align="center">
