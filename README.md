@@ -1,4 +1,4 @@
-<img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/mario_AdobeExpress.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 <!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%"/> -->
 
 <h3>Hello Fellow < Coders/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
@@ -17,8 +17,8 @@
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://LakshaySK106.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
+  <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=LakshaySK106&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width=51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshaySK106&theme=blueberry&hide_border=true" />
   </a>
 </p>
 
