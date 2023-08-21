@@ -111,7 +111,7 @@
       alt="Lakshay" height="30" width="40" /></a>
   <a href="https://instagram.com/laksh.ay_" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="laksh.ay_" height="30" width="40" /></a>
   <a href="https://discord.com/users/Lakshay%E2%97%A5%E2%96%B6_%E2%97%80%E2%97%A4#4372" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Lakshay" height="30" width="40" /></a>
