@@ -22,7 +22,8 @@
   </a>
 </p>
 
-[![Lakshay' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LakshaySK106&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Lakshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshaySK106&theme=tokyo-night)](https://github.com/LakshaySK106/github-readme-activity-graph)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
